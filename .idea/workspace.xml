@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af14a38c-1ddc-49d3-ac96-63f2c854b8d3" name="Changes" comment="D5C1">
-      <change afterPath="$PROJECT_DIR$/src/Day5Challenge2.java" afterDir="false" />
+    <list default="true" id="af14a38c-1ddc-49d3-ac96-63f2c854b8d3" name="Changes" comment="STD for visualizing">
+      <change afterPath="$PROJECT_DIR$/src/Day6Challenge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6Challenge2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +30,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day6Challenge2">
+    <configuration name="Day5Challenge2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5Challenge2" />
+      <module name="AdventOfCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day6Challenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6Challenge1" />
+      <module name="AdventOfCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day6Challenge2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6Challenge2" />
+      <module name="AdventOfCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day6Challenge2" />
+        <item itemvalue="Application.Day6Challenge1" />
+        <item itemvalue="Application.Day5Challenge2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -129,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670224811621</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="D5C2">
+      <created>1670225895352</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670225895352</updated>
+    </task>
+    <task id="LOCAL-00014" summary="STD for visualizing">
+      <created>1670225917713</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670225917713</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +204,8 @@
     <MESSAGE value="D4C1" />
     <MESSAGE value="D4C2" />
     <MESSAGE value="D5C1" />
-    <option name="LAST_COMMIT_MESSAGE" value="D5C1" />
+    <MESSAGE value="D5C2" />
+    <MESSAGE value="STD for visualizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="STD for visualizing" />
   </component>
 </project>
