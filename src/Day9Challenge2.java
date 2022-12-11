@@ -4,6 +4,7 @@ public class Day9Challenge2 {
     public static int[][] tailTrail = {{0, 0}};
     public static void main(String[] args) {
         StdDraw.setScale(-350, 350);
+        StdDraw.enableDoubleBuffering();
         for (int i = 0; i < 10; i++) {
             Knot.all[i] = new Knot(i);
         }
@@ -115,6 +116,6 @@ class Knot{
        }
    }
    public void draw(){
-       StdDraw.filledCircle(coords[0], coords[1], 0.5);
+       StdDraw.filledCircle(coords[0], coords[1], 1);
    }
 }
